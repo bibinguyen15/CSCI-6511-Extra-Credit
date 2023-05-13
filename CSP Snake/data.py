@@ -7,3 +7,4 @@ grid = [['', '', '', '', 'Y'],
         ['', '', '', '', 'K']]
 
 alphabet = list(string.ascii_uppercase)[:-1]
+
